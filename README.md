@@ -2,6 +2,8 @@
 
 https://momerio.github.io/ZenVR/index.html
 
+You can enjoy it by opening the above URL with a VR compatible device.
+
 ## Models and Assets
 Thank you very much!
 
